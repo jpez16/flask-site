@@ -1,0 +1,19 @@
+{
+  "name": "project",
+  "homepage": "https://github.com/justinpezzack/flask-site",
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+  "bootstrap": "^3.3.6",
+  "react": "^15.1.0"
+  }
+}
